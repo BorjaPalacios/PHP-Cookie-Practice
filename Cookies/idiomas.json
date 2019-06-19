@@ -1,0 +1,42 @@
+{
+	"español":
+	{
+		"nombre": "Nombre",
+		"apellido": "Apellido",
+		"edad": "Edad",
+		"años": "años",
+		"enviar": "Enviar",
+		"volver": "Volver"
+	},
+
+	"ingles":
+	{
+		"nombre": "Name",
+		"apellido": "Surname",
+		"edad": "Age",
+		"años": "years",
+		"enviar": "Send",
+		"volver": "Return"
+	},
+
+	"aleman":
+	{
+		"nombre": "Name",
+		"apellido": "Nachname",
+		"edad": "Alter",
+		"años": "ahre",
+		"enviar": "Senden",
+		"volver": "Komm zurück"
+	},
+
+	"japones":
+	{
+		"nombre": "Namae",
+		"apellido": "Sei",
+		"edad": "Nenrei",
+		"años": "-Nen",
+		"enviar": "Modotte kuru",
+		"volver": "Sōshin suru"
+	}
+		
+}
